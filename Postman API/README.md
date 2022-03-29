@@ -1,1 +1,1 @@
-/Plik ten zawiera kod API Json pozwalający na edycję tablicy Trello.
+Plik zawiera kod API Json pozwalający na edycję tablicy Trello.
